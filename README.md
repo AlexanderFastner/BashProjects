@@ -1,2 +1,1 @@
 # BashProjects
-# GenomeOrientedBioInformatics
